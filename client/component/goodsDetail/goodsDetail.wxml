@@ -1,0 +1,21 @@
+<!--component/goodsDetail/goodsDetail.wxml-->
+<view class='contain'>
+  <image class="imga" src='{{imgurla}}' mode='widthFix'></image>
+  <image class='imgb' src='{{imgurlb}}' mode='widthFix'></image>
+  <image class='imgc' src='{{imgurlc}}' mode='widthFix'></image>  
+  <image class='imgd' src='{{imgurld}}' mode='widthFix'></image>
+  <view>
+    <navigator class="nav" url="{{servicepage}}">
+      <image class='btn' src='{{btnurla}}' mode='widthFix'></image>
+    </navigator>
+  </view>
+  <image class='imge' src='{{imgurle}}' mode='widthFix'></image>
+  <image class='imgf' src='{{imgurlf}}' mode='widthFix'></image>
+  <image class='imgg' src='{{imgurlg}}' mode='widthFix'></image>
+  <image class='imgh' src='{{imgurlh}}' mode='widthFix'></image>
+  <view class='foot'>
+    <navigator class='nav' url='{{storepage}}'>
+      <image class="btn" src='{{btnurlb}}' mode='widthFix'></image>
+    </navigator>
+</view>
+</view>

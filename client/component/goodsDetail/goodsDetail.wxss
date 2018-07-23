@@ -1,0 +1,12 @@
+/* component/goodsDetail/goodsDetail.wxss */
+.contain {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+.imga,.imgb,.imgc,.imgd,.imge,.imgf,.imgg,.imgh,.nav{
+  width: 100%;
+}
+.foot {
+  align-self: flex-start;
+}

@@ -1,0 +1,32 @@
+<!--banner广告区域-->
+  <view class="banner">
+  <swiper class="swbox" indicator-dots="true" autoplay="true"  interval="3600" indicator-active-color="#FCE166" circular="true">
+  <block wx:for="{{bannerUrl}}" wx:key="unique">
+      <swiper-item>
+        <navigator url="{{item.link}}">
+          <image  src="{{item.url}}" mode="widthFix" ></image>
+        </navigator>
+      </swiper-item>
+    </block>
+  </swiper>
+  </view>
+
+<!--广告标语区域-->
+<view class='imgm'>
+  <image mode="widthFix" src='../images/t1.png'></image>
+</view>
+
+<!--goodsList自定义组件引用-->
+<goodsList id="goodsList"  wx:for="{{goodsArray}}" wx:key="unique"
+  imgurl="{{item.imgurl}}"
+  title="{{item.title}}"
+  desc="{{item.desc}}"
+  descb="{{item.descb}}"
+  price="{{item.price}}"
+  orig="{{item.orig}}"
+  num="{{item.num}}"
+  url="{{item.url}}"
+  priceurl="{{item.priceurl}}"
+  btnurl="{{item.btnurl}}"
+  >
+</goodsList>

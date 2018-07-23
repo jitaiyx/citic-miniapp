@@ -1,0 +1,15 @@
+<goodsDetail id="goodsDetail" wx:for="{{detailArray}}" wx:key="unique"
+imgurla="{{item.imgurla}}"
+imgurlb="{{item.imgurlb}}"
+imgurlc="{{item.imgurlc}}"
+imgurld="{{item.imgurld}}"
+imgurle="{{item.imgurle}}"
+imgurlf="{{item.imgurlf}}"
+imgurlg="{{item.imgurlg}}"
+imgurlh="{{item.imgurlh}}"
+servicepage="{{item.servicepage}}"
+storepage="{{item.storepage}}"
+btnurla="{{item.btnurla}}"
+btnurlb="{{item.btnurlb}}"
+>
+</goodsDetail>

@@ -1,0 +1,19 @@
+<!--component/goodsList/goodsList.wxml-->
+<view class='list-group'>
+  <view class='list-left'>
+    <image src='{{imgurl}}' class='img' mode="widthFix"></image>
+  </view>
+  <view class='list-right'>
+    <view class='title'>{{title}}</view>
+    <view class='desc'>{{desc}}</view>
+    <view class='descb'>{{descb}}</view>
+    <view class='price-box'>
+      <image src='{{priceurl}}' class='price' mode="widthFix"></image>
+    </view>
+    <view class='illustrate'>
+      <navigator url='{{url}}'>
+        <image src="{{btnurl}}" class="btn" mode='widthFix'></image>
+      </navigator>
+    </view>
+  </view>
+</view>

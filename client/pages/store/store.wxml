@@ -1,0 +1,11 @@
+<view class='contain'>
+  <image mode="widthFix" src="http://visa.ismarthealth.com:3389/image/pImg2018071115285797536.png"></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115290846137.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115292248024.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115405886547.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115411392677.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115412465585.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115503469078.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115512824672.png'></image>
+  <image mode='widthFix' src='http://visa.ismarthealth.com:3389/image/pImg2018071115514032057.png'></image>
+</view>

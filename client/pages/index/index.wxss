@@ -1,0 +1,17 @@
+/**index.wxss**/
+page {
+    background: #F6F6F6;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.swbox{
+  height: 180px;
+}
+.imgm{
+  margin-bottom: 3px;
+}
+image {
+  width: 100%;
+}

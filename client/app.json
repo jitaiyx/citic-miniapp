@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/detailb/detailb",
+    "pages/store/store",
+    "pages/service/service",
+    "pages/storeb/storeb"
+  ],
+  "window":{
+    "backgroundColor":"#F8F8F8",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTitleText": "爱睿智",
+    "navigationBarTextStyle":"black"
+  }
+}

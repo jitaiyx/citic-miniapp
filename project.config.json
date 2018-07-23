@@ -1,0 +1,13 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxad6ee122150c12eb",
+	"projectname": "CITIC",
+	"libVersion": "2.2.0",
+	"condition": {}
+}
